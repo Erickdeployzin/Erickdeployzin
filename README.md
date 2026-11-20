@@ -31,7 +31,7 @@
 ### Linguagens de programação
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,php,python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,php,python,html" />
 </p>
 
 ### Game Development
@@ -45,7 +45,7 @@
 ### Desenvolvimento Web e Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html" />
 </p>
 
 ### Ferramentas e ambiente de desenvolvimento
