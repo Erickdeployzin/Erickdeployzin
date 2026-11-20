@@ -56,27 +56,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&bg_color=06152B&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=06152B&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=06152B&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" />
-</p>
-
----
-
-## 📈 Histórico de contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=06152B&color=CBD5E1&line=0EA5E9&point=38BDF8&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🌐 Entre em contato
 
 <p align="center">
